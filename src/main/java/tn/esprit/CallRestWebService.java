@@ -20,6 +20,7 @@ import org.json.JSONObject;
  */
 //cc c fekri
 	//cc c taissir
+	// cc c blis
 public class CallRestWebService {
 
 	public static final String endpoint = "http://ip-api.com/json";
